@@ -6,6 +6,9 @@ body {
     min-height: 180px;
     padding: 0;
     width: 504px;
+    height: 110px;
+    overflow:hidden;
+    
 }
 
 #clock {
@@ -14,5 +17,6 @@ body {
 }
 
 #hex-color {
-    margin: -60px;
+    margin:-40px;
+    font-size: 20px;
 }
