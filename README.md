@@ -1,4 +1,4 @@
-# hex-color-clock
+# Hex Color Clock
 A hex color clock with a changing background based on the time using hex color codes.
 
 ## Usage
